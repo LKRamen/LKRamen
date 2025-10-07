@@ -6,7 +6,7 @@ I am a second-year computer science student at Columbia University, passionate a
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
+- 💻 Building applications with PostgreSQL
 
 ## 🎓 About Me
 
